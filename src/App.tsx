@@ -97,6 +97,7 @@ function App () {
                   ))
                 }
                 <button className="remove-playlist" data-id="${playlist.name}">Remove playlist</button>
+                <hr />
               </section>
             ))
           }
