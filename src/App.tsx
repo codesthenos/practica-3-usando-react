@@ -1,9 +1,7 @@
 function App () {
   return (
     <>
-      <h1>CODESTHENOS</h1>
-
-      <h3>NEXT PROYECT</h3>
+      <h1>PRACTICA INTRO JS CON REACT</h1>
     </>
   )
 }
