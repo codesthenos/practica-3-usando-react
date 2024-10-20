@@ -12,7 +12,6 @@ Copio la web usada para la practica, pero en vez de usando _vanilla_ **HTML**, *
 
 - [`npm create vite@latest`](https://www.npmjs.com/package/create-vite)
 
-- [`npm i codesthenos-midu-router`](https://www.npmjs.com/package/codesthenos-07-midu-router)
 - [`npm i -D gh-pages`](https://www.npmjs.com/package/gh-pages)
 
 ## Descripcion
